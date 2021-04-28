@@ -3,7 +3,7 @@ import { capitalizeFirstLetter } from "../../utils/helpers";
 
 function Header(props) {
     
-    const tabs = ['About', 'Portfolio', 'Contact'];
+    const tabs = ['About', 'Portfolio', 'Contact','Resume'];
     
     
   
