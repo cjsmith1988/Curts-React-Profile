@@ -33,7 +33,7 @@ function App() {
   return (
     <div>
       <Header currentPage={currentPage} handlePageChange={handlePageChange}/>
-      <main>
+      <main class="hero-banner">
       <div>{renderPage(currentPage)}</div>
       </main>
       <Footer />

@@ -8,18 +8,17 @@ function Header(props) {
     
   
     return (
-    <header className="flex-row px-1">
-        <h2>
+    <header className="navbar navbar-dark">
+        <h1 className="bg-dark">
             <a href="/">
             Curtis Smith
             </a>
-        </h2>
+        </h1>
         <nav className="navbar navbar-expand-lg ">
             <ul className="nav nav-tabs">
                 {tabs.map(tab => (
                     <li className="nav-item" key={tab}>
                     <a
-                        href={'#' + tab.toLowerCase()}
                         // Whenever a tab is clicked on,
                         // the current page is set through the handlePageChange props.
                         onClick={() => props.handlePageChange(tab)}
