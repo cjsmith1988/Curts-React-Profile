@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "title": "Dog Dash",
+      "image": "DogDash.png",
+      "github": "https://github.com/pro3gro3/walk-my-dog",
+      "link": "https://dog-dash.herokuapp.com",
+      "category": "MERN (Redux)"
+    },
+    {
+      "id": 2,
+      "title": "Shop Shop",
+      "image": "ShopShop.png",
+      "github": "https://github.com/cjsmith1988/shop-shop",
+      "link": "https://curts-ecommerce.herokuapp.com/",
+      "category": "MERN"
+    },
+    {
+      "id": 3,
+      "title": "Milestone",
+      "image": "Milestone.PNG",
+      "github": "https://github.com/proj2gr4/Milestone-Project",
+      "link": "https://milestone-goals.herokuapp.com/",
+      "category": "NodeJs"
+    },
+    {
+      "id": 4,
+      "title": "Date-Concierge",
+      "image": "DateConcierge.png",
+      "github": "https://github.com/ProjectOneTeamFour/date-concierge",
+      "link": "https://projectoneteamfour.github.io/date-concierge/",
+      "category": "GraphQl"
+    },
+    {
+        "id": 5,
+        "title": "WeatherDashboard",
+        "image": "WeatherDashboard.png",
+        "github": "https://github.com/cjsmith1988/weather-dashboard",
+        "link": "https://cjsmith1988.github.io/weather-dashboard/",
+        "category": "JavaScript, CSS, HTML, Third-party API"
+      }
+  ]

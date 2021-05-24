@@ -90,8 +90,6 @@ nav a:last-child {
 }
 
 
-
-
 .hero-banner {
   background: rgb(68, 88, 120);
   background-image: url("assets/images/Toronto-Skyline.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
@@ -186,7 +184,6 @@ section {
   transition: all 0.5s;
   font-size: 0.9rem;
 }
-
  
 .grid-item:first-child {
     grid-column: span 4;
@@ -212,6 +209,13 @@ section {
 .contactForm {
   width: 500px;
   height: 100vh;
+}
+
+.card, .img-thumbnail{
+  margin: 0 !important;
+  padding: 0 !important;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
 }
 
 footer {
