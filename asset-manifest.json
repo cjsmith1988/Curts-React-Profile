@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/Curts-React-Profile/static/css/main.2279c41f.chunk.css",
-    "main.js": "/Curts-React-Profile/static/js/main.f25df590.chunk.js",
-    "main.js.map": "/Curts-React-Profile/static/js/main.f25df590.chunk.js.map",
-    "runtime-main.js": "/Curts-React-Profile/static/js/runtime-main.2739f6f6.js",
-    "runtime-main.js.map": "/Curts-React-Profile/static/js/runtime-main.2739f6f6.js.map",
-    "static/js/2.60286b6c.chunk.js": "/Curts-React-Profile/static/js/2.60286b6c.chunk.js",
-    "static/js/2.60286b6c.chunk.js.map": "/Curts-React-Profile/static/js/2.60286b6c.chunk.js.map",
-    "static/js/3.a00e7672.chunk.js": "/Curts-React-Profile/static/js/3.a00e7672.chunk.js",
-    "static/js/3.a00e7672.chunk.js.map": "/Curts-React-Profile/static/js/3.a00e7672.chunk.js.map",
+    "main.css": "/Curts-React-Profile/static/css/main.482bc1bc.chunk.css",
+    "main.js": "/Curts-React-Profile/static/js/main.f8e0fe4b.chunk.js",
+    "main.js.map": "/Curts-React-Profile/static/js/main.f8e0fe4b.chunk.js.map",
+    "runtime-main.js": "/Curts-React-Profile/static/js/runtime-main.9c24c8e7.js",
+    "runtime-main.js.map": "/Curts-React-Profile/static/js/runtime-main.9c24c8e7.js.map",
+    "static/js/2.a9754466.chunk.js": "/Curts-React-Profile/static/js/2.a9754466.chunk.js",
+    "static/js/2.a9754466.chunk.js.map": "/Curts-React-Profile/static/js/2.a9754466.chunk.js.map",
+    "static/js/3.d3352068.chunk.js": "/Curts-React-Profile/static/js/3.d3352068.chunk.js",
+    "static/js/3.d3352068.chunk.js.map": "/Curts-React-Profile/static/js/3.d3352068.chunk.js.map",
     "index.html": "/Curts-React-Profile/index.html",
-    "static/css/main.2279c41f.chunk.css.map": "/Curts-React-Profile/static/css/main.2279c41f.chunk.css.map",
-    "static/js/2.60286b6c.chunk.js.LICENSE.txt": "/Curts-React-Profile/static/js/2.60286b6c.chunk.js.LICENSE.txt",
+    "static/css/main.482bc1bc.chunk.css.map": "/Curts-React-Profile/static/css/main.482bc1bc.chunk.css.map",
+    "static/js/2.a9754466.chunk.js.LICENSE.txt": "/Curts-React-Profile/static/js/2.a9754466.chunk.js.LICENSE.txt",
     "static/media/Curtis Smith 2021.1daf993c.pdf": "/Curts-React-Profile/static/media/Curtis Smith 2021.1daf993c.pdf",
+    "static/media/DateConcierge.png": "/Curts-React-Profile/static/media/DateConcierge.f7071371.png",
+    "static/media/DogDash.png": "/Curts-React-Profile/static/media/DogDash.06903d97.png",
+    "static/media/Milestone.PNG": "/Curts-React-Profile/static/media/Milestone.2aa5feb5.PNG",
+    "static/media/ShopShop.png": "/Curts-React-Profile/static/media/ShopShop.a857289b.png",
     "static/media/index.css": "/Curts-React-Profile/static/media/profile-pic.5740a6ed.jpg",
+    "static/media/WeatherDashboard.png": "/Curts-React-Profile/static/media/WeatherDashboard.ec97e068.png",
     "static/media/logo.6ce24c58.svg": "/Curts-React-Profile/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2739f6f6.js",
-    "static/js/2.60286b6c.chunk.js",
-    "static/css/main.2279c41f.chunk.css",
-    "static/js/main.f25df590.chunk.js"
+    "static/js/runtime-main.9c24c8e7.js",
+    "static/js/2.a9754466.chunk.js",
+    "static/css/main.482bc1bc.chunk.css",
+    "static/js/main.f8e0fe4b.chunk.js"
   ]
 }
