@@ -1,4 +1,4 @@
-# budget-tracker
+# Curts-React-Profile
 
 [![License: MIT License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
  
@@ -90,6 +90,7 @@ Mock-Up
 
   If you have any further questions regarding this project please email: [cj1988333@hotmail.com](mailto:cj1988333@hotmail.com?subject=[Question]React-Profile).
 
-![download app](https://github.com/cjsmith1988/budget-tracker/blob/main/public/images/budgetAppNotify.PNG?raw=true)
-![application screen shot](https://github.com/cjsmith1988/budget-tracker/blob/main/public/images/budgetAppScreenGrab.PNG?raw=true)
+![About Me](https://github.com/cjsmith1988/Curts-React-Profile/blob/master/src/assets/images/AboutScreen.png?raw=true)
+![Resume Me](https://github.com/cjsmith1988/Curts-React-Profile/blob/master/src/assets/images/ResumeScreen.png?raw=true)
+![Contact Me](https://github.com/cjsmith1988/Curts-React-Profile/blob/master/src/assets/images/ContactScreen.png?raw=true)
 
